@@ -2,6 +2,4 @@ print("MY NAME IS KARN KUMAR JHA")
 PRINT("MY FATHER NAME IS LALIT NARAYAN JHA")
 #input in python
 input("what is your name ?")
-name=input("what is your name?")
-print("my name is"name)
 
